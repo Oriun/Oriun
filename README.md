@@ -24,7 +24,7 @@
 
 <h2>Trending</h2>
 
-| <img src="https://github-readme-stats.vercel.app/api/pin/?username=Oriun&repo=leetcode-problems" /> | <img src="https://github-readme-stats.vercel.app/api/pin/?username=Oriun&repo=Portfolio" /> |
+| <a href="https://github.com/Oriun/leetcode-problems"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Oriun&repo=leetcode-problems" /></a> | <a href="https://github.com/Oriun/Portfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Oriun&repo=Portfolio" /></a> |
 | ------------- | ------------- |
 
 <h2>My Stats</h2>
