@@ -24,10 +24,10 @@
 
 <h2>Trending</h2>
 
-| <a href="https://github.com/Oriun/leetcode-problems"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Oriun&repo=leetcode-problems" /></a> | <a href="https://github.com/Oriun/Portfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Oriun&repo=Portfolio" /></a> |
+| <a href="https://github.com/Oriun/leetcode-problems"><img height="200" src="https://github-readme-stats.vercel.app/api/pin/?username=Oriun&repo=leetcode-problems&cache_seconds=0" /></a> | <a href="https://github.com/Oriun/Portfolio"><img height="200" src="https://github-readme-stats.vercel.app/api/pin/?username=Oriun&repo=Portfolio&cache_seconds=0" /></a> |
 | ------------- | ------------- |
 
 <h2>My Stats</h2>
 
-| <img align="center" height="250" src="https://github-readme-stats.vercel.app/api?username=Oriun&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Oriun's github stats" /> | <img height="250" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oriun&layout=compact&theme=buefy&hide_border=true" /> |
+| <img align="center" height="250" src="https://github-readme-stats.vercel.app/api?username=Oriun&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&cache_seconds=0" alt="Oriun's github stats" /> | <img height="250" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oriun&layout=compact&theme=buefy&hide_border=true&cache_seconds=0" /> |
 | ------------- | ------------- |
