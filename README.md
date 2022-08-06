@@ -17,15 +17,11 @@
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="C++" src="https://img.shields.io/badge/-C++-005494?style=flat-square&logo=cplusplus&logoColor=white" />
+  <img alt="Go" src="https://img.shields.io/badge/-Go-FFFFFF?style=flat-square&logo=go&logoColor=00A7D0" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-366996?style=flat-square&logo=python&logoColor=white" />
   <img alt="Nginx" src="https://img.shields.io/badge/-Nginx-009137?style=flat-square&logo=nginx&logoColor=white" />
   <img alt="Storybook" src="https://img.shields.io/badge/-Storybook-f2437e?style=flat-square&logo=storybook&logoColor=white" />
 </p>
-
-<h2>Trending</h2>
-
-| <a href="https://github.com/Oriun/leetcode-problems"><img height="200" src="https://github-readme-stats.vercel.app/api/pin/?username=Oriun&repo=leetcode-problems&cache_seconds=1" /></a> | <a href="https://github.com/Oriun/Portfolio"><img height="200" src="https://github-readme-stats.vercel.app/api/pin/?username=Oriun&repo=Portfolio&cache_seconds=1" /></a> |
-| ------------- | ------------- |
 
 <h2>My Stats</h2>
 
