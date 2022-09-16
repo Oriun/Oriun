@@ -25,5 +25,5 @@
 
 <h2>My Stats</h2>
 
-| <img align="center" height="250" src="https://github-readme-stats.vercel.app/api?username=Oriun&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&cache_seconds=0" alt="Oriun's github stats" /> | <img height="250" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oriun&layout=compact&theme=buefy&hide_border=true&cache_seconds=0" /> |
+| <img align="center" height="250" src="https://github-readme-stats.vercel.app/api?username=Oriun&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&cache_seconds=1" alt="Oriun's github stats" /> | <img height="250" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oriun&layout=compact&theme=buefy&hide_border=true&cache_seconds=1" /> |
 | ------------- | ------------- |
